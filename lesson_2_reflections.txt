@@ -37,3 +37,11 @@ original separately, branches are a good idea.
 
 Overall, branches let you keep separate versions with their own separate 
 histories. And then if you ever want to merge them together, you can do that.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams make for a nice picture that represents how the branch structure is 
+like. They allow you to easily see what commits are part of what branch, as well 
+as which commits are untraceable and would be lost if you do not give it its own 
+branch.
