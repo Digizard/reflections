@@ -22,3 +22,18 @@ If you've made multiple changes that you think would be better to break into
 multiple commits, you can commit each different batch of files at a time. With 
 staging, you can use git diff to make sure you have chosen only the certain ones 
 each time.
+
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+If you want to work on some sort of alternative version of your project, 
+branches are pretty handy. If there's something you want to change or work on, 
+but you still want to have an easily accessible original instead of having to 
+dig through your commits for it each time, branches are just the thing.
+
+If you want to work on an experimental idea while continuing to work with the 
+original separately, branches are a good idea.
+
+Overall, branches let you keep separate versions with their own separate 
+histories. And then if you ever want to merge them together, you can do that.
