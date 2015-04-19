@@ -13,3 +13,12 @@ The staging area is like an in-between for the working directory and the actual
 repository. I think it has value because it allows you to get things ready for 
 the actual commit. It makes it easier to avoid mistakes and just makes it easier 
 to organize things.
+
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+If you've made multiple changes that you think would be better to break into 
+multiple commits, you can commit each different batch of files at a time. With 
+staging, you can use git diff to make sure you have chosen only the certain ones 
+each time.
