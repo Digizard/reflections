@@ -58,3 +58,17 @@ what would be harder?
   be easier in the sense that those options would be very GUI-y, though with 
   GitHub, you also have a GUI way to work with things, at least for the most 
   part. Using Git and GitHub is just a very good option.
+
+
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+  If you want to make a change that deviates from the original function of the 
+  project (like a different language version) or if you want to work on an 
+  experimental feature, making a new branch might be a good idea. It's also a 
+  good idea if you are working in a group to work in different branches. In this 
+  way, the changes can be approved by everyone before moving it into the master 
+  branch.
+  
+  If you just want to work linearly, and especially if you're working alone, 
+  then just making changes directly in master might be a good idea.
