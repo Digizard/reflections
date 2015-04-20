@@ -38,3 +38,12 @@ use one instead of another?
   someone's repository and set it up on GitHub. First, it is automatically setup 
   on GitHub already. Then when you clone it to your computer, the remote is all 
   setup.
+
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+  You can work on the project offline and see how far you're progressing from 
+  when you last left the remote repository. You can also merge them on your own 
+  time, should your work be divergent from the remote version and then fix those 
+  conflicts.
