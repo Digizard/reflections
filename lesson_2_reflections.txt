@@ -45,3 +45,16 @@ The diagrams make for a nice picture that represents how the branch structure is
 like. They allow you to easily see what commits are part of what branch, as well 
 as which commits are untraceable and would be lost if you do not give it its own 
 branch.
+
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+The result of merging two branches together is a combination of the two 
+branches, bringing the changes together. Starting from the version both branches 
+originated from, whatever was added to either is added and anything removed is 
+removed.
+
+It is represented in the diagram as the two branches coming together to one 
+point. This is basically just what happens. All the changes come together into 
+one just like that.
