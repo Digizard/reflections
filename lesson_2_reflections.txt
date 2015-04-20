@@ -58,3 +58,16 @@ removed.
 It is represented in the diagram as the two branches coming together to one 
 point. This is basically just what happens. All the changes come together into 
 one just like that.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+Git makes it easier to merge commits by doing much of the work automatically. 
+However, it can't do everything on its own. When conflicts arise that it can't 
+figure out, then it won't do it. It has to ask a human to handle it. It may make 
+for more work than if Git could magically do it all. But if it tried, it might 
+mess it up and make it worse, so maybe it's a good thing that it asks a human
+for help.
+
+It's not perfect, but it works and it's not too bad.
