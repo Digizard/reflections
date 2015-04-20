@@ -7,3 +7,15 @@ local?
   of the project. Pushing with Git to a remote repository makes that all really 
   easy. With something like Github, it's also free. If something happens to your 
   computer, you can still get to the project from another one.
+
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+  Someone else might have made edits while I was working on mine. In that, it's 
+  probably no different than not wanting to automerge the master branch 
+  constantly when working on a different branch. Sure, it would keep the branch 
+  up-to-date, but it might mess up what you're doing. If there are conflicts, 
+  it will make you try to fix it, which might just be annoying to do at the 
+  time. So, just like we commit manually, pulling manually seems to work out for 
+  the best as well.
