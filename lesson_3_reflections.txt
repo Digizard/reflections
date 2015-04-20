@@ -19,3 +19,22 @@ automatically stay up-to-date with your remote repository?
   it will make you try to fix it, which might just be annoying to do at the 
   time. So, just like we commit manually, pulling manually seems to work out for 
   the best as well.
+  
+  
+Describe the differences between forks, clones, and branches. When would you 
+use one instead of another?
+
+  Branches are a split off of your main version of your project. They are 
+  helpful when you want to make different versions of your project or just want 
+  to test some things without messing up the main version.
+  
+  Clones are useful when you want to copy a repository. Maybe you just want to 
+  make a copy of one you have to another computer, or maybe you want to copy a 
+  friend's.
+  
+  Forks are special GitHub clones that have some extra features. First, the 
+  project you originally forked from is listed on your project. This gives them 
+  credit in that it's based on their work. This also makes it easier to clone 
+  someone's repository and set it up on GitHub. First, it is automatically setup 
+  on GitHub already. Then when you clone it to your computer, the remote is all 
+  setup.
