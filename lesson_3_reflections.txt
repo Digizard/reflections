@@ -47,3 +47,14 @@ stored locally?
   when you last left the remote repository. You can also merge them on your own 
   time, should your work be divergent from the remote version and then fix those 
   conflicts.
+
+  
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+
+  Similar things to Git and GitHub might give a rather similar experience, but 
+  ignoring those, it would be rather difficult to collaberate in comparison. You 
+  could work with zipped folders through things like DropBox or email. It might 
+  be easier in the sense that those options would be very GUI-y, though with 
+  GitHub, you also have a GUI way to work with things, at least for the most 
+  part. Using Git and GitHub is just a very good option.
