@@ -1,0 +1,9 @@
+When would you want to use a remote repository rather than keeping all your work 
+local?
+
+  A good time for this is if I may be working on something from multiple 
+  computers. In that case, I can access the files from any one of these 
+  computers. Another time would be if you would like to have an external backup 
+  of the project. Pushing with Git to a remote repository makes that all really 
+  easy. With something like Github, it's also free. If something happens to your 
+  computer, you can still get to the project from another one.
